@@ -1,0 +1,13 @@
+jupyter
+matplotlib
+numpy
+Pillow
+scikit-image
+scikit-learn
+scipy
+tensorboard
+torch
+torchvision
+tqdm
+pandas
+sacred
